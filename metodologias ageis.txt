@@ -1,0 +1,63 @@
+ser um time veloz, é mais uma preocupação do que qualidade
+SER RÁPIDO NÃO É SER ÁGIL!!!
+------------------
+é muito presente na gestão ágil a colaboração com o cliente
+------------
+os 12 principios do manifesto ágil
+stakeholders= cliente, usuario, patrocinador etc...
+---------------
+importancia da agilidade no mundo da tecnologia
+
+inovar muitas vezes vai vir acompanhado de incerteza
+--------------
+gerenciamento de projetos
+------------
+diferença de gerenciamento de projetos entre tradicional e o agil
+modelo agil tem cilcos
+e sçao divididos por sprints
+-----------------------
+oque é gestão ágil?
+-------
+oque é scrum
+base no empirismo = decisões na base do que é observado
+e lean thinking = linha de pensamento, que preza a questão da melhoria continua
+e nao ter disperdicio de tempo, evitar perca de tempo, pessoas etc..
+
+pilares do scrum
+transparencia
+inspeção
+adaptação
+uma coisa sempre estará puxando a outra
+-----------------------
+framework ou metodologia ágil
+metodologia é como uma receita de bolo
+com ingredientes e modo de preparo
+e o scrum não é metodologia pq
+tem claro pq tem que ser feito
+oque deve ser feito e o como fica intencionalmente incompleto
+--------------
+oque é Extreme Progrmming (XP)
+é um método ágil
+------------
+Oque é okr?
+objectives
+key
+results
+NPS = indice de satisfação
+a cada objetivo
+tem 2 a 5 resultados chaves
+e depende muito da empresa se sera okr pra temestre, mes ou ano
+são objetivos estratégicos
+-------------------
+os beneficios do OKR
+agilidade
+cooperação
+transparencia
+monitoramento comportamental
+
+freemium = meio gratuito e meio pago
+que quando nao pago
+tem limitações de usuario, armazenamento e etc...
+------------------
+para saber mais:
+

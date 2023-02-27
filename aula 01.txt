@@ -1,0 +1,30 @@
+no passado todos os sistemas eram feitos voltados a desktop
+hoje em dia softwares de gestão tem saido do modelo desktop e indo para o modelo web
+o primeiro passo em um desenvolvimento de software é saber qual plataforma deseja programa-lo
+o programador entrega um protótipo para que o ux/ui designer defina em quais locais ficara o designer e os locais de
+interação para o cliente
+------------
+comportamento de um UX designer é
+pesquisa
+protótipos
+personas
+objetivos
+----
+Quality Assurance (QA)
+tem como objetivo garantir a qualidade de um software
+deve garantir que nao ocorra erros nas requisições
+e tambem indentificar o caminho do usuario é exatamente aquele que foi definido
+-------------------------
+infraestrutura
+----------------
+vantagens de migrar para nuvens publicas
+preço
+facilidade de contratação, configuração e infraestrutura
+escabilidade
+performance
+-----------
+desenvolvimento mobile
+para IOS usa o swift
+
+e pode se ter desenvolvimento hibrido para android e ios
+com ionic, flutter, react native

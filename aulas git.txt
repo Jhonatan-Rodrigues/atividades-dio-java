@@ -1,0 +1,37 @@
+MKDIR
+comando para criar uma pasta
+echo hello > hello.txt = comando para criar um arquivo, pelo cmd
+C:\>del workspace = comando para deletar arquivos de uma pasta
+C:\>C:\>rmdir workspace/S/Q = apaga a pasta	
+
+----------
+funcionamento do git
+SHA1 = é uma forma curta de representar um arquivo
+objetos fundamentais
+sistemas de distribuido
+segurança
+------------
+objetos internos do git
+BLOBS = blocos basicos de comandos
+TREES = armazena os blobs, eles tem um sha1 dos metadados
+COMMITS = o objeto que junta tudo e da sentido aos comandos, eles tambem tem um sha1
+
+o apontamento dos arquivos segue da seguinte forma
+
+commit -> tree -> blobs
+-------------------
+$ cd workspace/ = entrando dentro de uma pasta com esse comando
+--
+ls -a = mostra arquivos ocultos
+---------
+tracked = arquivos que o git tem ciencia
+untracked = arquivos que o git nao tem ciencia
+------
+movendo arquivo para uma pasta chamada receitas
+$ mv strogonoff.md ./receitas/
+-----------
+os arquivos costumam ser rejeitados quando há algum arquivo no repositório remoto
+que nao se tem localmente
+-------
+o git pull atualiza para que os dois estejam sincronizados
+porem pode acontecer um conflito de merge se tiver tido alguma alteração no readme.md
