@@ -59,5 +59,4 @@ freemium = meio gratuito e meio pago
 que quando nao pago
 tem limitações de usuario, armazenamento e etc...
 ------------------
-para saber mais:
 
